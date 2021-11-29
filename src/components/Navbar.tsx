@@ -70,7 +70,7 @@ export const Navbar = () => {
 
 
     return (
-        <AppBar>
+        <AppBar position={"fixed"}>
             <Toolbar>
                 <Grid
                     container

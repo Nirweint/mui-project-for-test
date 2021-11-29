@@ -1,23 +1,19 @@
 import React from 'react';
 import {Container, makeStyles} from "@material-ui/core";
-import {Post} from "./Post";
 
 const useStyles = makeStyles(theme => ({
     container: {
-        paddingTop: theme.spacing(10),
+        paddingBottom: theme.spacing(2),
     },
 }))
 
-export const Feed = () => {
+export const Post = () => {
 
     const s = useStyles();
 
     return (
         <Container className={s.container}>
-            <Post/>
-            <Post/>
-            <Post/>
-            <Post/>
+            Helllooodsodosdosod
         </Container>
     );
 }
