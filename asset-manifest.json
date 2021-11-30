@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/mui-responsive-app/static/js/main.2f37dbae.chunk.js",
+    "main.js.map": "/mui-responsive-app/static/js/main.2f37dbae.chunk.js.map",
+    "runtime-main.js": "/mui-responsive-app/static/js/runtime-main.fe29184f.js",
+    "runtime-main.js.map": "/mui-responsive-app/static/js/runtime-main.fe29184f.js.map",
+    "static/js/2.6d26855a.chunk.js": "/mui-responsive-app/static/js/2.6d26855a.chunk.js",
+    "static/js/2.6d26855a.chunk.js.map": "/mui-responsive-app/static/js/2.6d26855a.chunk.js.map",
+    "index.html": "/mui-responsive-app/index.html",
+    "static/js/2.6d26855a.chunk.js.LICENSE.txt": "/mui-responsive-app/static/js/2.6d26855a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe29184f.js",
+    "static/js/2.6d26855a.chunk.js",
+    "static/js/main.2f37dbae.chunk.js"
+  ]
+}
