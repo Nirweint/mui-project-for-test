@@ -22,13 +22,13 @@ function App() {
         <div>
             <Navbar/>
             <Grid container>
-                <Grid item sm={2} xs={2}>
+                <Grid item md={2} sm={2} xs={2}>
                     <Leftbar/>
                 </Grid>
-                <Grid item sm={7} xs={10}>
+                <Grid item md={7} sm={10} xs={10}>
                     <Feed/>
                 </Grid>
-                <Grid item sm={3} className={s.right}>
+                <Grid item md={3} className={s.right}>
                     <Rightbar/>
                 </Grid>
             </Grid>

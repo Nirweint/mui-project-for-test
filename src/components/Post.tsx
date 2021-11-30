@@ -12,11 +12,14 @@ import {
 
 const useStyles = makeStyles(theme => ({
     card: {
-        maxWidth: 500,
+        maxWidth: "100%",
         marginBottom: theme.spacing(2)
     },
     media: {
         height: 140,
+        [theme.breakpoints.up('md')]: {
+            height: 240,
+        }
     },
 }))
 
